@@ -1,2 +1,6 @@
-# Software-Design-Architecture
-My journey towards software architecture and design
+# Software Design and Architecture
+A journey towards software architecture and design
+
+
+
+
