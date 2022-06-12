@@ -49,7 +49,7 @@ Definition:
 - Webhook
 - WebSocket
 
-### Design Patterns
+### [Design Patterns](DesignPatterns/DesignPattern.md)
 - Behavior patterns
 - Structurals patterns
 - Creationals patterns
