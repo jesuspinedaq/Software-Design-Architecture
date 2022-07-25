@@ -49,6 +49,9 @@ Definition:
 - Webhook
 - WebSocket
 
+### [Architectural Anti-Patterns](ArchitecturalAnti-Patterns/ArchitecturalAnti-Patterns.md)
+- Sinkhole anti-pattern
+
 ### [Design Patterns](DesignPatterns/DesignPattern.md)
 - Behavior patterns
 - Structurals patterns
