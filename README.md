@@ -8,7 +8,7 @@ Software architecture and design
 
 Definition:
 
-## Softwate Architecture Characteristics
+## [Softwate Architecture Characteristics](SoftwareArchitectureCharacteristics/SoftwateArchitectureCharacteristics.md)
 ### Operational Characteristics
 - Availability
 - Continuity
@@ -38,6 +38,7 @@ Definition:
 - Supportability
 - Usability/achievability
 
+---
 
 - Fault tolerance
 - Elasticity
