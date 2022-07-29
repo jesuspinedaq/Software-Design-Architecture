@@ -8,18 +8,42 @@ Software architecture and design
 
 Definition:
 
-### Softwate Architecture Characteristics
+## Softwate Architecture Characteristics
+### Operational Characteristics
 - Availability
-- Scalability
-- Fault tolerance
+- Continuity
 - Performance
-- Reliability
+- Recoverability
+- Reliability/Safety
+- Robustness
+- Scalability
+### Structural Architecture Characteristics
+- Configurability
+- Extensibility
+- Installability
+- Leverageability/Reuse
+- Localization
+- Maintainability
+- Portability
+- Supportability
+- Upgradeability
+### Cross-Cutting Architecture Characteristics
+- Accessibility
+- Archivability
+- Authentication
+- Authorization
+- Legal
+- Privacy
 - Security
+- Supportability
+- Usability/achievability
+
+
+- Fault tolerance
 - Elasticity
 - Deployability
 - Testability
 - Agility
-- Recoverability
 - Learneability
 - Modifiability
 
