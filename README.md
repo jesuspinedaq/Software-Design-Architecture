@@ -93,11 +93,11 @@ Definition:
 - Easy to refactor
 
 ### SOLID Principles
-Single responsibility
-Open close principle
-Liskov sutitution
-Interface segregation
-Dependency Inversion of control
+- Single responsibility
+- Open close principle
+- Liskov sutitution
+- Interface segregation
+- Dependency Inversion of control
 
 ### Other principles
 - DRY: Don’t repeat yourself
