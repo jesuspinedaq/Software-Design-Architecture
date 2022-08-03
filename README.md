@@ -55,7 +55,7 @@ Definition:
 
 ### Architectural Styles:
 - Client-Server
-- Layered architecture:
+- [Layered architecture](SoftwareArchitecture/LayeredArchitecture.md):
     - Clean architecture
     - Hexagonal architecture
 - Master slave
